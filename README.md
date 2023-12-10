@@ -28,7 +28,6 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="45" height="45"/> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Fortran.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="vscode" width="45" height="45"/>
@@ -36,6 +35,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Fortran.svg" alt="vscode" width="45" height="45"/>
 
 <br/>
 
