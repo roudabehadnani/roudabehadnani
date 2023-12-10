@@ -1,7 +1,7 @@
 ### Hello World, I'm Roudabeh  👋
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/roudabehadnani/roudabehadnani/blob/main/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/roudabehadnani/roudabehadnani/blob/main/code.gif" width="450" height="320" />
 
 
 ## I'm a Developer!
