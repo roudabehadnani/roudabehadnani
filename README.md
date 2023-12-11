@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning firebase
 - 💬 Ask me about JavaScript, React, HTML/CSS and Java
 - 🤔 I’m looking for opportunities as a Frontend Developer
-- 📫 How to reach me https://www.linkedin.com/in/roudabeh-adnani
+- 📫 How to reach me <a href="https://www.linkedin.com/in/roudabeh-adnani-3688a787/">Linkedin</a>
 - 😄 Pronouns: She/Her
 
 
