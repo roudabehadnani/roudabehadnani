@@ -23,6 +23,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="Aws" width="45" height="45"/>  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="vscode" width="45" height="45"/>
