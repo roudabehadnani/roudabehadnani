@@ -5,10 +5,11 @@
 
 
 ## I'm a Developer!
-- 🌱 I’m currently learning firebase
-- 💬 Ask me about JavaScript, React, HTML/CSS and Java
+- 🌱 I’m currently learning node.js
+- 💬 Ask me about JavaScript, TypeScript, React, HTML/CSS and Java
 - 🤔 I’m looking for opportunities as a Frontend Developer
 - 📫 How to reach me <a href="https://www.linkedin.com/in/roudabeh-adnani-3688a787/">Linkedin</a>
+- 🌐 Portfolio : <a href="https://portfolio-roudabeh.vercel.app/"></a>
 - 😄 Pronouns: She/Her
 
 
