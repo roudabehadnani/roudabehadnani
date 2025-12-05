@@ -5,7 +5,6 @@
 
 
 ## I'm a Developer!
-- 🌱 I’m currently learning Node.js
 - 💬 Ask me about JavaScript, TypeScript, React, HTML/CSS and Java
 - 🤔 I’m looking for opportunities as a Frontend Developer
 - 📫 How to reach me <a href="https://www.linkedin.com/in/roudabeh-adnani-3688a787/" target="_blank">Linkedin</a>
